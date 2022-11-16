@@ -1,0 +1,8 @@
+site_name: "springtwo"
+site_description: "this is a spring app"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
