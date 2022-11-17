@@ -11,4 +11,5 @@ spec:
   lifecycle: experimental
   owner: "team-a"
   dependsOn:
-  - component:camas,springone
+  - component:camas
+  - component:springone
